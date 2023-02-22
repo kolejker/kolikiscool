@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**kolikiscool/kolikiscool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![enter image description here](https://github.com/kolikiscool/kolikiscool/blob/main/images/banner.png?raw=true)
+## Welcome to my profile
+I'm 15 living in France, I enjoy playing counter-strike, going outside, editing videos and of course coding!
+## Languages I know (mostly)
+<img style="padding: 2px" width="40px" src="https://github.com/kolikiscool/kolikiscool/blob/main/images/csharp-original.png?raw=true">
+<img style="padding: 2px" width="40px" src="https://github.com/kolikiscool/kolikiscool/blob/main/images/html5-original.png?raw=true"/>
+<img style="padding: 2px" width="40px" src="https://github.com/kolikiscool/kolikiscool/blob/main/images/java-original.png?raw=true"/>
+<img style="padding: 2px" width="40px"  src="https://github.com/kolikiscool/kolikiscool/blob/main/images/python-original.png?raw=true"/>
+<img style="padding: 2px" width="40px"  src="https://github.com/kolikiscool/kolikiscool/blob/main/images/javascript-original.png?raw=true"/>
+<img style="padding: 2px" width="40px"  src="https://github.com/kolikiscool/kolikiscool/blob/main/images/cplusplus-original.png?raw=true"/>
