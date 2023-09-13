@@ -7,7 +7,7 @@ I'm 16 living in France, I enjoy playing counter-strike, going outside (XDXDXDXD
 <img style="padding: 2px"  align="left" width="40px" src="https://github.com/kolikiscool/kolikiscool/blob/main/images/java-original.png?raw=true"/>
 <img style="padding: 2px"  align="left" width="40px"  src="https://github.com/kolikiscool/kolikiscool/blob/main/images/python-original.png?raw=true"/>
 <img style="padding: 2px"  align="left" width="40px"  src="https://github.com/kolikiscool/kolikiscool/blob/main/images/javascript-original.png?raw=true"/>
-<img style="padding: 2px"  align="left" width="40px"  src="https://github.com/kolikiscool/kolikiscool/blob/main/images/cplusplus-original.png?raw=true"/>
+
 <br></br>
 
 ## HIT ME UP IF YOU NEED SOMEONE TO CODE WITH YOU/ HELP YOU
