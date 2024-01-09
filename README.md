@@ -10,6 +10,6 @@ I'm 16 living in France, I enjoy playing counter-strike, going outside (XDXDXDXD
 
 <br></br>
 
-## HIT ME UP IF YOU NEED SOMEONE TO CODE WITH YOU/ HELP YOU
+## HIT ME UP IF YOU NEED SOMEONE TO CODE WITH YOU
 
 
